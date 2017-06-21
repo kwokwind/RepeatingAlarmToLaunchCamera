@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\b4ba703014dce66dfa588ea231296cd57ba570cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_7175ce5dbd4bde31e94e97f7d254d96672ec4682.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e573d6e2c4a6337c66afd3a926e0e35c7ea0de7c">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_81dfc49a9000feca81d0686b6a4ac02705666623\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\5a57b6d22e590d583a195eb9f59f510231b02d7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_6e31c321bca519e15806c02d885db68989eeb467.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_efe9309b165485ee6938b274b57d69ad9d357ff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\cb6e5e56766fab17ab135c401b37fd24f5aaf256\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_fddd9427c960d3c95e03badbcd634788defec791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\b28bc71e815cc6a07918b04573f7637d02412ddd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_60d8e9319331ea155ce7651ca075873475271ca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\9c8760210f71cec994e85f8f2aafe9b96f9e421c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_78f599b2103d743ee83b35ec21b36b2b3d706386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\6f44efd3d6bcb4ff08e0adf798df60e62287e11c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_e275bcf19308d4d2959d1f7bcce943c504aaa95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\29d85f49127716574718e228b5e841d76344cf3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_0cf50f4322fde8c0d4c96c006b85922e7a060491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\4659d04815f3d1f9c0486b22d8ed54af717443c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_1fdbd197be34d7c78a73f2205e7585a565f0937b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\be50e374bf2b5fc637e7b96395c5923d6bf4524d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_43b668cb538c824b5457f98ae02d6e6fb9ce2d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\0a92ecf7a464b4a8e36c87ac0ccc8cc60778bb00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_ab4182d82fff7282d1f570437e148b6c6701675c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_55e1ccc254b5228ca5ea20692125625c4f29b086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtf743\.android\build-cache\1565dab29069e204ae1f001ecbbeb316cfafa2b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\rtf743\AndroidStudioProjects\CameraAlarm\Application\build\intermediates\pre-dexed\debug\classes_6d4d883d149f81c867fbedc76bde53e195d4265d.jar" />
+    </item>
+
+</items>
